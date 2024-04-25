@@ -1,0 +1,11 @@
+body{
+    outline: none;
+    background: #b95de7 ;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.input{
+    outline: none;
+}
